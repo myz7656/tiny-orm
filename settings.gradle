@@ -1,0 +1,3 @@
+rootProject.name = "tiny-orm"
+include ':app'
+include ':orm'
